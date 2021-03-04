@@ -1,6 +1,6 @@
 # ajjz
 http://192.168.7.241/#/gzkj/86/workfiles/67/index?id=86&gzlid=67&name=%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%E6%B5%81
-
+http://localhost:9527/#/gzkj/86/workfiles/67/index?id=86&gzlid=67&name=%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%E6%B5%81
 
 
 ## Getting started
